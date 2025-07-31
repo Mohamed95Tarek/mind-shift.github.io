@@ -1,4 +1,4 @@
 {
-  "status": 200,
-  "message": "API call successful"
+  "status": 500,
+  "message": "Pay my money"
 }
